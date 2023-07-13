@@ -3,3 +3,4 @@ Pandas
 Numpy
 Matplotlib
 Plotly
+nbconvert==7.6.0
