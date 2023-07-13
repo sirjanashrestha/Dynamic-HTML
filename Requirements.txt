@@ -1,0 +1,5 @@
+Tensorflow=2.10
+Pandas
+Numpy
+Matplotlib
+Plotly
