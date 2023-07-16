@@ -1,6 +1,6 @@
-Tensorflow=2.10
-Pandas
-Numpy
+Tensorflow=2.12.0
+Pandas=2.0.2
+Numpy=1.23.5
 Matplotlib
 Plotly
 nbconvert==7.6.0
